@@ -90,9 +90,9 @@ _checkouts/
 rebar3.crashdump
 
 # Automatically generated rebar.config files.
-rebar.config
-!/deps/amqp10_common/rebar.config
-!/rebar.config
+# rebar.config
+# !/deps/amqp10_common/rebar.config
+# !/rebar.config
 
 # Erlang/OTP unwanted files.
 .erlang.cookie
