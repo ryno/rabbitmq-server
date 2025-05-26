@@ -17,7 +17,7 @@
 .erlang.mk/
 cover/
 docs/*.html
-ebin/
+ebin/*.beam
 logs/
 **/test/*.beam
 **/test/ct.cover.spec
